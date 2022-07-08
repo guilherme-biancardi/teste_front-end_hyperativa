@@ -8,20 +8,8 @@ Desafio Hyperativa
 2. Para o exercício 2, há um layout um pouco mais complexo no zeplin e com base no que viu no HTML do exercício 1 é proposto montar esse código por inteiro.
 A entrega deve ser a estrutura completa contendo o HTML e as imagens exportadas do zeplin similar ao que foi disponibilizado para o primeiro exercício.
 
-## Acesso ao Zeplin
+## Instruções
 
-O Zeplin é uma ferramenta, que entre várias funcionalidades, permite exportar imagens e verificar propriedades do texto como família da fonte, tamanho, cor, entre outras propriedades de um jeito simples.
+Há duas pastas no repositório, referente a cada exercicio proposto.
 
-1. Acesse o site https://app.zeplin.io/login
-2. Utilize as credenciais fornecidas por e-mail
-3. Acesse **"Hyperativa's Workspace"** e selecione o projeto **"Teste - Front-end"**
-4. Escolha um dos layouts de email-marketing para desenvolver o HTML
-
-## Orientações
-
-* HTML e imagens necessárias ao exercício estão disponibilizados neste repositório.
-* Verifique se possui todos os acessos necessários no Zeplin para realizar o execício. 
-* Coloque isso em um repositório GIT.
-* Colocar as orientações de uso no README do seu repositório.
-
-# Boa sorte 
+P.S O exercicio 1 possui dois arquivos HTML, o original do desafio e um novo modificado por mim, deixei o original caso queiram comparar, obrigado
